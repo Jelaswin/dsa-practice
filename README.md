@@ -5,7 +5,7 @@ This repository contains my Data Structures and Algorithms solutions for placeme
 ## Progress
 
 ### Arrays
--  Two Sum
+- [x] Two Sum
 
 ### Strings
 
